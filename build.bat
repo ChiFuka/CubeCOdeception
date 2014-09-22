@@ -1,1 +1,1 @@
-php codecept.phar run
+php codecept.phar run --debug
